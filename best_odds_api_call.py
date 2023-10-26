@@ -19,7 +19,7 @@ def betstamps_best_odds():
     'Accept-Encoding': 'gzip, deflate, br',
     'PLATFORM': 'web',
     'Content-Type': 'application/json',
-    'Authorization': 'Token 278c8cc04effb9ebb8dcdb47b4029f5d8657b75075039278ab4429518f572adb',
+    'Authorization': '',
     'Origin': 'https://betstamp.app',
     'Connection': 'keep-alive',
     'Referer': 'https://betstamp.app/',
